@@ -1,10 +1,11 @@
 {
+  "bootstrap-sha": "c04a5c4691997e54ec54030cea1dae8ab4486c10",
+  "initial-version": "0.1.0",
   "release-type": "simple",
   "prerelease": false,
   "bump-minor-pre-major": true,
   "bump-patch-for-minor-pre-major": false,
   "draft": false,
-  "initial-version": "0.1.0",
   "extra-files": [],
   "packages": {
     ".": {}
